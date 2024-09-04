@@ -8,3 +8,4 @@ IF op=+
 ELSEIF op=-
   THEN dif= n1-n2
     PRINT dif
+ENDIF
