@@ -1,13 +1,8 @@
-
-
-
-
-ELSEIF op=*
-  THEN prod=n1*n2
-    PRINT prod
-ELSEIF op=/
-  THEN div=n1/n2
-    PRINT div
-ELSEIF op=%
-  THEN mod=n1%n2
-    PRINT mod
+ask user to input number 1, save as n1
+ask user to input operator, save as op
+ask user to input number 2, save as n2
+IF op=+ THEN sum = n1+n2 PRINT sum
+IF op=- dif= n1-n2 PRINT dif
+IF op=* THEN prod=n1*n2 PRINT prod
+IF op=/ THEN div=n1/n2 PRINT div
+IF op=% THEN mod=n1%n2 PRINT mod
