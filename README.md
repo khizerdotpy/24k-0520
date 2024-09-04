@@ -5,13 +5,13 @@
 *Alongside being a full-time student, I am also a full-time cat person, even though I am allergic to them. But as they say, forbidden fruit tastes the sweetest, the companionship is worth the anti-allergies I have to take.*
 A person comes in all shapes and sizes, with multitudes of likes and dislikes. My shape is lean, my size:tall. 
 My interests include (but are not limited to): 
-*Philosophy 
-*Football
-*Comics(mainly spider-man)
-*problem solving 
+-Philosophy 
+-Football
+-Comics(mainly spider-man)
+-problem solving 
 
 My dislikes include:
-*fragile objects
+-fragile objects
 
 
 
