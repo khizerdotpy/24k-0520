@@ -1,0 +1,10 @@
+INPUT n1
+INPUT n2
+INPUT n3
+
+negN2= -n2
+negN3= -n3
+
+sum = (n1) - (negN2) - (negN3)
+
+PRINT sum
