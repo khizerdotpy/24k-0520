@@ -1,0 +1,9 @@
+ask user to input number
+ask user to input divisor
+set IsDiv to (number)%divisor
+if IsDiv = 0, Print "true"
+if IsDiv does not = 0, Print "false"
+if IsDiv = 0, check if divisor is even or odd
+Set IsEven to (divisor)%2
+if IsEven = 0, Print "True"
+if IsEven does not = 0, Print "False"
