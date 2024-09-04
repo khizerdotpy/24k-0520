@@ -1,0 +1,13 @@
+
+
+
+
+ELSEIF op=*
+  THEN prod=n1*n2
+    PRINT prod
+ELSEIF op=/
+  THEN div=n1/n2
+    PRINT div
+ELSEIF op=%
+  THEN mod=n1%n2
+    PRINT mod
