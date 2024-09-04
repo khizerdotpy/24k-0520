@@ -2,11 +2,11 @@ INPUT n1
 INPUT n2
 INPUT n3
 
-if n1>n2 and n1>n3
-  then PRINT "n1 greatest"
-elseif n2>n1 and n2>n3
-  then PRINT "n2 greatest"
-elseif n3>n1 and n3>n2
-  then PRINT "n3 greatest"
-endif
+IF n1>n2 and n1>n3
+  THEN PRINT "n1 greatest"
+ELSEIF n2>n1 and n2>n3
+  THEN PRINT "n2 greatest"
+ELSEIF n3>n1 and n3>n2
+  THEN PRINT "n3 greatest"
+ENDIF
 
