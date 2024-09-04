@@ -1,0 +1,10 @@
+INPUT n1
+INPUT op
+INPUT n2
+
+IF op=+
+  THEN sum = n1+n2
+    PRINT sum
+ELSEIF op=-
+  THEN dif= n1-n2
+    PRINT dif
